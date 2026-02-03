@@ -1,4 +1,4 @@
-25681997363440191
+25683767455562994
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -102826,6 +102826,13 @@ easyeda2kicad
 XDFN-8_L1.6-W1.2-P0.40-BL-EP
 
 
+0
+9
+9
+imported
+NTMFS5C460NLT1G
+DFN5 5x6, 1.27P (SO−8FL) CASE 488AA ISSUE N
+MOSFET (N-Channel)
 0
 9
 9
